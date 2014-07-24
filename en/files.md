@@ -1,7 +1,5 @@
 # Loading and Saving
 
-# Loading and Saving
-
 There is no API for you to manually access loading and saving
 functionality. The load and save functions are triggered by the
 buttons on the user interface. But the way loading and saving work
